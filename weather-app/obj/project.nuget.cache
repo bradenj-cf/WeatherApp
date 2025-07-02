@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qEjcPvkVeGw=",
+  "dgSpecHash": "Lo7M+LHcTjY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\braden.johnson\\WeatherApp\\weather-app\\weather-app\\weather-app.csproj",
+  "projectFilePath": "C:\\Users\\braden.johnson\\WeatherApp\\weather-app\\weather-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\braden.johnson\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.17\\microsoft.aspnetcore.openapi.8.0.17.nupkg.sha512",
     "C:\\Users\\braden.johnson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
